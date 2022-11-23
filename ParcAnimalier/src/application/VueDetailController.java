@@ -31,8 +31,4 @@ public class VueDetailController
 		taille.setText(Double.toString(selectedAnimal.getTaille()));
 		myImageView.setImage(myImage);
 	}
-	
-	public void returnMain() {
-		window.set
-	}
 }
